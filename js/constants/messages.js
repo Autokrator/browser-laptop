@@ -146,6 +146,10 @@ const messages = {
   LANGUAGE: _, /** @arg {string} langCode, @arg {Array} availableLanguages */
   REQUEST_LANGUAGE: _,
   STATE_UPDATED: _,
+  // Ledger
+  LEDGER_PUBLISHER: _,
+  LEDGER_GENERAL_COMMUNICATION: _,
+  LEDGER_UPDATED: _,
   // Debugging
   DEBUG_REACT_PROFILE: _
 }
